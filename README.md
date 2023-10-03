@@ -138,13 +138,13 @@ global.BotName = "X-2.0";
 
 
  
- ## 🎯 Developers 🎯
+ ## 🎯 Author 🎯
   <div align="center">
   
 | [![SlasherOfficial](https://github.com/ahil15.png?size=150)](https://github.com/ahil15) |
 |----|
 | [ N ᴏ ᴛ   S ʟ ᴀ ꜱ ʜ ᴇ ʀ ](https://github.com/ahil15) |
-|  owner, Bug Fixes, Modules, updates , developer |
+|  Developer, Bug Fixes, Modules, updates |
 
   </div>
   
