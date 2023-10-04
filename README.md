@@ -35,7 +35,7 @@ If you re-upload  anything from my ***REPOSITORY*** give me ***Credit*** Else I 
 #### DEPLOY STEPS
 
 1. Fork This Repository 
-2. Update [`config.js`](https://github.com/ahil15/Xlicon-v2/blob/master/config.js) < Click Here 
+2. Update [`config.js`]
 ```js
 global.Owner = ["8801853262586"]; 
 global.OwnerNumber = ["8801853262586"];
