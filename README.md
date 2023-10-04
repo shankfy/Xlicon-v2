@@ -3,7 +3,7 @@
 
 <p align="center">  
   <a href="https://xliconmd2.vercel.app/">
-    <img alt="X-2.0" height="300" src="https://i.ibb.co/dBXGd0b/20231002-103305.jpg">
+    <img alt="X-2.0" height="300" src="https://i.ibb.co/QkLLhdj/20231004-233338.jpg">
     <h1 align="center">XLICON-BOT 2.O</h1>
   </a>
 </p>
